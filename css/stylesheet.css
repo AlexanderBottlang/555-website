@@ -3,16 +3,16 @@ body {
   font-family: Georgia, "Times New Roman",
         Times, serif;
   color: purple;
-  background-color: #d8da3d }
+  background-color: #d8da3d;
+	text-align: center  }
 h1 {
-  font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif }
+	font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif;}
 ul.navbar {
-	width: 100%;
-	float: left;
 	margin: 0 0 3em 0;
 	padding: 0;
-	list-style: none; }
+	list-style: none;
+	display: inline-block;}
 ul.navbar li {
 	float: left;
 	background: grey;
